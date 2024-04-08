@@ -1,0 +1,24 @@
+.bouton-beige {
+  background-color: #135D66;
+  color: #E3FEF7;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: "Merriweather";
+  padding: 10px 20px;
+  border: 2px solid transparent; /* Added semi-transparent border */
+  transition: border-color 0.3s ease;
+}
+
+.bouton-beige:hover {
+  background: #0C3C42;
+}
+
+.bouton-small {
+  background-color: #135D66;
+  color: #E3FEF7;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.bouton-small:hover {
+  background-color: #0C3C42; 

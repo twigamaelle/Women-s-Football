@@ -1,0 +1,25 @@
+.cards {
+ display: flex;
+  flex-wrap:nowrap;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(214, 218, 200, 0.7)
+}
+
+.card img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.card h6 { 
+  margin: 5px 0;
